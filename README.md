@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RomtegaViewTool::Renderer.copyright 'Roman Ortega Mondaca', 'All rights reserved'
+```
 
 ## Development
 
